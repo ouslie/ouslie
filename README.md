@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ouslie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Bonjour, Je suis Arnaud GUY @ouslie
+
+Développeur travaillant sur un logiciel Médico-Social (https://airmes.eu)
+Concepteur et développeur de Apiapp | Gestion de ruches (https://apiapp.fr) 
+
+
 
 <!---
 ouslie/ouslie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
