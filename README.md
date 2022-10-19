@@ -1,4 +1,4 @@
-- 👋 Bonjour, Je suis Arnaud GUY @ouslie
+👋 Bonjour, Je suis Arnaud GUY @ouslie
 
 Développeur travaillant sur un logiciel Médico-Social (https://airmes.eu)
 Concepteur et développeur de Apiapp | Gestion de ruches (https://apiapp.fr) 
