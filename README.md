@@ -1,6 +1,6 @@
 👋 Bonjour, Je suis Arnaud GUY @ouslie
 
-Développeur travaillant sur un logiciel Médico-Social (https://airmes.eu)
+Développeur fullStack freelance
 Concepteur et développeur de Apiapp | Gestion de ruches (https://apiapp.fr) 
 
 
