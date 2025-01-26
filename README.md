@@ -1,15 +1,28 @@
-👋 Bonjour, Je suis Arnaud GUY @ouslie
+# 👋 Bonjour, je suis Arnaud GUY (@ouslie)
 
-Développeur FullStack moitié freelance moitié salarié
-Conception de logiciel métier
-Concepteur et développeur de Apiapp | Gestion de ruches (https://apiapp.fr (hors ligne))  
-Développeur d'intéropérabilité médicale pour Airmes (https://airmes.eu)
-Contributeur divers projet OpenSource.
+**Développeur FullStack**  
+Moitié freelance, moitié salarié
 
-Language: PHP, Node, JavaScript et débutant Java
-Framework Front: AngularJs, Angular, React
-Framework Back: Laravel, Symfony
+### 🛠️ Compétences et Activités
+- **Conception de logiciels métiers**
+- **Concepteur et développeur** de [Apiapp | Gestion de ruches](https://apiapp.fr) *(site hors ligne)*  
+- **Développeur d'interopérabilité médicale** pour [Airmes](https://airmes.eu)
+- **Contributeur** à divers projets Open Source
 
+### 💻 Langages
+- **Back-End** : PHP, Node  
+- **Front-End** : JavaScript  
+- Débutant en Java
+
+### 🌐 Frameworks
+- **Front-End** : AngularJs, Angular, React  
+- **Back-End** : Laravel, Symfony
+
+### 🌍 Me retrouver
+- **Site web** : [arnaudguy.fr](https://arnaudguy.fr)  
+- **LinkedIn** : [linkedin.com/in/arnaudguy](https://www.linkedin.com/in/arnaudguy/)
+
+---
 
 <!---
 ouslie/ouslie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
